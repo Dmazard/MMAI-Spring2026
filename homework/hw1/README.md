@@ -4,7 +4,8 @@
 
 ## Overview
 
-This assignment focuses on designing and preprocessing a multimodal healthcare dataset for downstream machine learning tasks. The goal was to define a clinically meaningful problem and construct a dataset that integrates multiple modalities such as time-series signals, clinical text, and derived features.
+This assignment is focused on the design and preparation of a multimodal healthcare data set in order to complete a downstream machine learning task(s). The aim of this effort was to identify a clinically relevant problem statement and the construction of a data set comprised of several modalities (e.g. Time-Series signals, clinical text and derived features).
+
 
 ## Modalities Explored
 
