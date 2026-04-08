@@ -4,7 +4,7 @@
 
 ## Overview
 
-This assignment explores multimodal learning through unimodal baselines and fusion techniques using the AV-MNIST dataset. The focus is on understanding how alignment and fusion strategies impact performance across modalities.
+This project analyses the effects of mulitmodal baselines and fusion methods for multimodal learning using the AV-MNIST dataset (audio visual MNIST). The main focus here being to better understand how using alignment and fusing two or more methods for learning will affect performance across the modalities.
 
 ## Modalities Explored
 
