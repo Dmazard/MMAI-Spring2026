@@ -23,9 +23,9 @@ In this project, we examine an agentic multimodal retrieval system that separate
 
 | # | Topic | Notebook |
 |---|---|---|
-| 1 | Dataset: Multimodal Data Preprocessing with ToolBench | [HW1](https://colab.research.google.com/drive/1FeEVZU-y_RekMb3a99MU7MHp3GHcAz7k?usp=sharing) |
-| 2 | Fusion: Multimodal Alignment and Fusion Techniques | [HW2](https://colab.research.google.com/drive/1XLgVA7LQOwcBnUZ7Vw3HxpI2H-VUpWax?usp=sharing) |
-| 3 | VLMs: Fine-tuning Vision-Language Models | [HW3](https://colab.research.google.com/drive/12W2uKO3JgQSnWW8rLqpwO1wJUPsg0C4E?usp=sharing) |
+| 1 | Multimodal Healthcare Data Preprocessing & Dataset Design  | [HW1](https://colab.research.google.com/drive/1FeEVZU-y_RekMb3a99MU7MHp3GHcAz7k?usp=sharing) |
+| 2 | Multimodal Fusion & Alignment (AV-MNIST) | [HW2](https://colab.research.google.com/drive/1XLgVA7LQOwcBnUZ7Vw3HxpI2H-VUpWax?usp=sharing) |
+| 3 | Vision-Language Models & Fine-Tuning | [HW3](https://colab.research.google.com/drive/12W2uKO3JgQSnWW8rLqpwO1wJUPsg0C4E?usp=sharing) |
 
 ## License
 
