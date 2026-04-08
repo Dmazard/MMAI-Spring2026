@@ -16,7 +16,7 @@ In this project, we examine an agentic multimodal retrieval system that separate
 **Team:** Dylan Mazard, Michael Serrano, Arthur De Los Santos
 
 - [Project Overview](./project/README.md)
-- [Proposal (LaTeX)](./project/proposal.pdf)
+- [Proposal (PDF)](./project/proposal.pdf)
 - [Midterm Report (LaTeX)](./project/midterm.pdf)
 
 ## Homework
